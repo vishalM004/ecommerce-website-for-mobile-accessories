@@ -277,27 +277,7 @@ setProducts(productData || []);
 )
   )
   .filter(Boolean);
-if (phone.id === "P0077") {
-  console.log(" REALME C25 PRODUCT TEST:", {
-    phoneId: phone.id,
-    compatibility: productCompatibilityData.filter(
-      (item) => String(item.phone_id).trim() === "P0077"
-    ),
-    matchedProducts: productMatches,
-  });
-}
 
-  console.log("PRODUCT DATA:", productData);
-console.log(
-  "PRODUCT COMPATIBILITY DATA:",
-  productCompatibilityData
-);
-
-  console.log(
-  "PRODUCT MATCH:",
-  phone.model,
-  productMatches
-);
 
       return {
   id: phone.id,
