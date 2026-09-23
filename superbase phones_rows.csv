@@ -1,0 +1,108 @@
+id,brand,model,compatible,fit
+1,Apple,iPhone 7,iPhone 8,Perfect
+2,Apple,iPhone X,"iPhone XS, 11 Pro",Perfect
+3,Apple,iPhone XS Max,iPhone 11 Pro Max,Usable
+4,Apple,iPhone XR,iPhone 11,Perfect
+5,Apple,iPhone 12,iPhone 12 Pro,Perfect
+6,Apple,iPhone 13,"iPhone 14, 13 Pro, 16e",Perfect
+7,Apple,iPhone 12 mini,iPhone 13 mini,Perfect
+8,Apple,iPhone 14 Plus,iPhone 13 Pro Max,Perfect
+9,Apple,iPhone 15,iPhone 16,Usable
+10,Samsung,Galaxy A12,Galaxy A02,Usable
+11,Samsung,Galaxy A12,Galaxy A03,Usable
+12,Samsung,Galaxy A12,Galaxy A04,Usable
+13,Samsung,Galaxy A14,Galaxy A15,Perfect
+14,Samsung,Galaxy A14,Galaxy M14,Perfect
+15,Samsung,Galaxy A14,Galaxy F14,Perfect
+16,Samsung,Galaxy A52,Galaxy A52s,Perfect
+17,Samsung,Galaxy A52,Galaxy A53,Usable
+18,Samsung,Galaxy M13,Galaxy F13,Perfect
+19,Redmi,Redmi Note 9,Redmi Note 9S,Perfect
+20,Redmi,Redmi Note 9,Redmi Note 9 Pro,Perfect
+21,Redmi,Redmi Note 9,Poco M2 Pro,Perfect
+22,Redmi,Redmi Note 10,Redmi Note 10S,Perfect
+23,Redmi,Redmi Note 10,Redmi Note 11S,Usable
+24,Redmi,Redmi Note 10,Poco M4 Pro,Usable
+25,Redmi,Redmi Note 12,Poco X5,Perfect
+26,Redmi,Redmi Note 12,Nord CE 3 Lite,Usable
+27,OPPO,F11 Pro,Realme X,Perfect
+28,OPPO,F11 Pro,OPPO K3,Perfect
+29,OPPO,OPPO A7,OPPO A5S,Perfect
+30,OPPO,OPPO A7,OPPO A11K,Perfect
+31,OPPO,OPPO A7,OPPO A12,Usable
+32,OPPO,OPPO F19,OPPO F21 Pro,Perfect
+33,OPPO,OPPO F19,OPPO A74,Perfect
+34,OPPO,Reno 6,Reno 5,Perfect
+35,OPPO,Reno 6,Nord 2,Usable
+36,Vivo,Vivo Y20,Vivo Y20A,Perfect
+37,Vivo,Vivo Y20,Vivo Y12s,Usable
+38,Vivo,Vivo Y21,Vivo Y21T,Perfect
+39,Vivo,Vivo Y21,Vivo Y33s,Usable
+40,Vivo,Vivo V20,Vivo V20 SE,Perfect
+41,Vivo,Vivo V25,iQOO Z6 Pro,Usable
+42,Realme,Realme 8,Realme 8i,Perfect
+43,Realme,Realme 8,Narzo 30,Usable
+44,Realme,Realme 9,Realme 9 Pro,Perfect
+45,Realme,Realme 9,Narzo 50,Usable
+46,Realme,Realme C25,Narzo 30A,Perfect
+47,OnePlus,OnePlus Nord CE 2,Nord CE 3,Perfect
+48,OnePlus,OnePlus Nord CE 2,OPPO Reno 7,Usable
+49,OnePlus,OnePlus 9,OnePlus 9R,Perfect
+50,OnePlus,OnePlus 9,OnePlus 8T,Usable
+51,Motorola,Moto G67 Power,NIL,NIL
+52,REDMI,Redmi Note 10 Pro 4g,"Redmi Note 10 Pro  max 4g, K40, K40 Pro, K40 pro plus or +, Redmi Note 11 pro, Note 11 Pro Plus or + / Poco F3, Poco X4 NFC",Perfect
+53,Apple,iPhone 4,iPhone 4s,Usable
+54,Apple,iPhone 5,"iPhone 5c, 5s, iPhone SE",Perfect
+55,Apple,iPhone 6 Plus,"iPhone 6s Plus, 7, 8, SE",Perfect
+56,Apple,iPhone 15 Pro,iPhone 16 Pro,Usable
+57,Apple,iPhone 15 Pro Max,"iPhone 16 Pro Max
+",Perfect
+58,Apple,iPhone 16 Plus,iPhone 15 Plus,Perfect
+59,Apple,iPhone 7 Plus,iPhone 8 Plus,Perfect
+60,Apple,"iPhone 17 ",iPhone 17 Pro,Usable
+61,Apple,iPhone 17 Pro Max,NIL,NIL
+62,Apple,iPhone 17e,"NIL ",NIL
+63,Apple,iPhone 17 Air,NIL,NIL
+64,Samsung,Samsung Galaxy S22,Samsung Galaxy S23,Perfect
+65,Samsung,Galaxy A14,Galaxy F14,Perfect
+66,Samsung,Galaxy A52,Galaxy A52s,Perfect
+67,Samsung,Galaxy A52,Galaxy A53,Usable
+68,Samsung,Galaxy M13,Galaxy F13,Perfect
+69,Redmi,Redmi Note 9,Redmi Note 9S,Perfect
+70,Redmi,Redmi Note 9,Redmi Note 9 Pro,Perfect
+71,Redmi,Redmi Note 9,Poco M2 Pro,Perfect
+72,Redmi,Redmi Note 10,Redmi Note 10S,Perfect
+73,Redmi,Redmi Note 10,Redmi Note 11S,Usable
+74,Redmi,Redmi Note 10,Poco M4 Pro,Usable
+75,Redmi,Redmi Note 12,Poco X5,Perfect
+76,Redmi,Redmi Note 12,Nord CE 3 Lite,Usable
+77,OPPO,F11 Pro,Realme X,Perfect
+78,OPPO,F11 Pro,OPPO K3,Perfect
+79,OPPO,OPPO A7,OPPO A5S,Perfect
+80,OPPO,OPPO A7,OPPO A11K,Perfect
+81,OPPO,OPPO A7,OPPO A12,Usable
+82,OPPO,OPPO F19,OPPO F21 Pro,Perfect
+83,OPPO,OPPO F19,OPPO A74,Perfect
+84,OPPO,Reno 6,Reno 5,Perfect
+85,OPPO,Reno 6,Nord 2,Usable
+86,Vivo,Vivo Y20,Vivo Y20A,Perfect
+87,Vivo,Vivo Y20,Vivo Y12s,Usable
+88,Vivo,Vivo Y21,Vivo Y21T,Perfect
+89,Vivo,Vivo Y21,Vivo Y33s,Usable
+90,Vivo,Vivo V20,Vivo V20 SE,Perfect
+91,Vivo,Vivo V25,iQOO Z6 Pro,Usable
+92,Realme,Realme 8,Realme 8i,Perfect
+93,Realme,Realme 8,Narzo 30,Usable
+94,Realme,Realme 9,Realme 9 Pro,Perfect
+95,Realme,Realme 9,Narzo 50,Usable
+96,Realme,Realme C25,Narzo 30A,Perfect
+97,Samsung,Galaxy S8,Galaxy S9,Perfect
+98,Samsung,Galaxy S8 Plus,Galaxy S9 Plus,Usable
+99,Samsung,Galaxy S20,Galaxy S21,Perfect
+100,Samsung,Samsung Galaxy S20 Plus,Samsung Galaxy S21 Plus,Usable
+101,Samsung,Galaxy A50,"Galaxy A20, A30, M30, A40s, M31, A30s, A50s, M30s, M31, M21, F41, M10s ",Perfect
+103,Samsung,Galaxy A20s,Nil,Nil
+104,Redmi,Redmi 8,Redmi 8A,Perfect
+105,vivo,Vivo V20,"Vivo V20SE, V21E 4g, V21 E 5g, Y70, Y73 , Y73s, S6 5g /
+ Oppo A73, A91, F15, F17, Reno 3. ",Usable
+106,Realme,Realme 5,"Realme 5i, 5s, 6i, 10 (4g), 10 (5g), 10s, 11, 11 Prime (4g), 11 Prime (5g) - Realme C3, C11, C12, C15, C20, C20A, C21, C21Y, C25, C25s, C25Y, C30, C30s, C31, C33, C35, 50i Prime - Narzo 10, Narzo 10A, Narzo 20, Narzo 20A, Narzo 30, Narzo 30A, Narzo 50, Narzo 50 5G, Narzo 50A, Narzo 50i, Narzo 50i Prime, Narzo N55 / OPPO A Series: A1k, A2, A3 (4G/5G), A3i, A3x (4G/5G), A3x China, A3 Pro India, A5 (4G/5G), A5 2020, A5M, A5x, A5 Energy, A5 Pro (4G/5G), A9 2020, A11, A11x, A12, A13 5G, A15, A15s, A16, A16E, A16K, A16s, A17, A17K, A18, A20, A31, A32 5G, A33, A35, A38, A40, A40M, A51, A51 Pro, A52 2020, A53, A53s, A54s, A55 5G, A56 5G, A57 4G, A57 5G, A57E, A58 4G, A58 5G, A59 (5G), A60, A77 4G, A77 5G, A77s, A78 5G, A79 (5G), A80 A98/OP F23, A100/City 100 - F / K / Reno Series: F23, K11x, K12x, Reno Me 55, C63 (5G), C65, C67 (4G/5G), C71, C73, C75, C75X, Reno Me 11 (5G), 11x, 12 (5G), 12 Lite, 12x, 13 (5G), 14x, P3 Lite, P3X, Reno V50, V50s, V60 Pro / OnePlus: Nord N300, Nord N30 SE, Nord CE3 Lite / Vivo V & T Series: V11, V20, V23, V56 5G, T1, T1 5G, T1x, T1x 4G, T2x 5G, T3 Lite - Y Series: Y01, Y02, Y02A, Y02s, Y02t, Y03, Y11, Y11 4G 2023, Y11s, Y12, Y12a, Y12G, Y12s, Y15a, Y15s, Y16, Y17, Y17s, Y18, Y18e, Y20, Y20A, Y20G, Y20i, Y20s, Y20s G, Y21, Y21A, Y21e, Y21s, Y21t, Y22, Y22s, Y21D, Y28 (4G), Y28 (4G/5G), Y29 (4G/5G), Y31 (5G), Y31 2020, Y31s, Y31s 2021, Y31t Pro, Y32, Y33, Y33s, Y33t, Y35, Y35 5G, Y35+, Y36 (India), Y37 Pro, Y37/Y39, Y51 2020, Y51a, Y52 5G, Y52s, Y52t, Y53s, Y54s, Y55 5G, Y56, Y58, Y72 5G, Y72t, Y74s, Y75 5G, Y76 5G, Y76s, Y77, Y77e, Y77s, Y83, Y200i, Y200+, Y200T, Y300i, Y300T / iQOO Series: iQOO Z6, iQOO Z6 Lite, iQOO Z3 5G, iQOO Z7, iQOO Z9x, iQOO Z10X, iQOO Neo7 / Infinix Hot / Smart: Hot 8, Hot 10, Hot 10i, Hot 11, Hot 12 Pro, Hot 20i, Hot 30i, Smart 5, Smart 6, Smart 7, Smart 7 (India), Smart 7+, Smart 7 HD, Smart 8 HD / Tecno Spark: Spark 4, Spark 4 Lite, Spark 6, Spark 7, Spark 7T, Spark 8, Spark 8T, Spark 9 Pro, Pop 7, Pop 7 Pro, Spark 10, Spark 10C, Spark Go 2023 / Xiaomi & Redmi: A1, A1+, A2, A2+, 10 5G, Note 11E, Note 11, Note 12, Note 12 Pro, Note 12 4G, Note 12 5G, Note 12 5G China, Note 12R Pro, Redmi Note 11R / POCO Series: POCO C3, POCO C31, POCO C50, POCO C51, POCO M4, POCO M4 5G, POCO M5, POCO X5 (5G) / Samsung Galaxy: A02, A02s, A03, A03s, A03 Core, A04, A04s, A04e, A04 Core, M04, F04, A12, A13, A13 5G, A23, A23 5G, A32 5G, F02s, F12, F13, F23, M02, M02s, M12, M13, M13 5G, M23, M32 5G, M33 / Motorola: Moto E15, Moto G05, Moto G15, Moto G15 Power, Moto G56, Moto G66J, Moto G66Y, Edge 20 Lite, Edge 20 Fusion / Honor: Honor X8 5G, Honor X5, Honor X6, Jonor X5/X6/Hot 20 5G/201/HW V61 (misprinted variant list), Honor X5b, Honor X6b / Other: IT Vision 1 Pro, Vision 3, MO E13/E22/E22i, Pro/Itel A100",Perfect & Usable

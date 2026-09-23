@@ -1,0 +1,535 @@
+﻿group_id,phone_id,fit
+TG001,P0001,Usable
+TG001,P0002,Usable
+TG001,P0003,Usable
+TG001,P0004,Usable
+TG002,P0005,Perfect
+TG002,P0006,Perfect
+TG002,P0007,Perfect
+TG002,P0008,Perfect
+TG003,P0009,Perfect
+TG003,P0009,Perfect
+TG004,P0010,Perfect
+TG004,P0010,Perfect
+TG005,P0011,Perfect
+TG005,P0012,Perfect
+TG006,P0013,Perfect
+TG006,P0014,Perfect
+TG006,P0015,Perfect
+TG007,P0016,Usable
+TG007,P0017,Usable
+TG008,P0018,Perfect
+TG008,P0019,Perfect
+TG009,P0020,Perfect
+TG009,P0021,Perfect
+TG010,P0022,Perfect
+TG010,P0023,Perfect
+TG010,P0024,Perfect
+TG010,P0025,Perfect
+TG011,P0026,Perfect
+TG011,P0027,Perfect
+TG012,P0028,Perfect
+TG012,P0029,Perfect
+TG013,P0030,Usable
+TG013,P0031,Usable
+TG014,P0032,Perfect
+TG014,P0033,Perfect
+TG015,P0032,Usable
+TG015,P0034,Usable
+TG016,P0035,Perfect
+TG016,P0036,Perfect
+TG017,P0037,Perfect
+TG017,P0038,Perfect
+TG017,P0039,Perfect
+TG017,P0040,Perfect
+TG018,P0041,Perfect
+TG018,P0042,Perfect
+TG019,P0041,Usable
+TG019,P0043,Usable
+TG019,P0044,Usable
+TG020,P0045,Perfect
+TG020,P0046,Perfect
+TG021,P0045,Usable
+TG021,P0047,Usable
+TG022,P0048,Perfect
+TG022,P0049,Perfect
+TG022,P0050,Perfect
+TG023,P0051,Perfect
+TG023,P0052,Perfect
+TG023,P0053,Perfect
+TG024,P0051,Usable
+TG024,P0054,Usable
+TG025,P0055,Perfect
+TG025,P0056,Perfect
+TG025,P0057,Perfect
+TG026,P0058,Perfect
+TG026,P0059,Perfect
+TG027,P0058,Usable
+TG027,P0060,Usable
+TG028,P0061,Perfect
+TG028,P0062,Perfect
+TG029,P0061,Usable
+TG029,P0063,Usable
+TG030,P0064,Perfect
+TG030,P0065,Perfect
+TG031,P0064,Usable
+TG031,P0066,Usable
+TG032,P0067,Perfect
+TG032,P0068,Perfect
+TG033,P0069,Usable
+TG033,P0070,Usable
+TG034,P0071,Perfect
+TG034,P0072,Perfect
+TG035,P0071,Usable
+TG035,P0073,Usable
+TG036,P0074,Perfect
+TG036,P0075,Perfect
+TG037,P0074,Usable
+TG037,P0076,Usable
+TG038,P0077,Perfect
+TG038,P0078,Perfect
+TG039,P0079,Perfect
+TG039,P0080,Perfect
+TG040,P0079,Usable
+TG040,P0081,Usable
+TG041,P0082,Perfect
+TG041,P0083,Perfect
+TG042,P0082,Usable
+TG042,P0084,Usable
+TG043,P0085,NIL
+TG043,P0086,NIL
+TG044,P0087,Perfect
+TG044,P0088,Perfect
+TG044,P0089,Perfect
+TG044,P0090,Perfect
+TG044,P0091,Perfect
+TG044,P0092,Perfect
+TG044,P0093,Perfect
+TG044,P0094,Perfect
+TG045,P0095,Usable
+TG045,P0096,Usable
+TG046,P0097,Perfect
+TG046,P0098,Perfect
+TG046,P0099,Perfect
+TG046,P0100,Perfect
+TG047,P0101,Perfect
+TG047,P0102,Perfect
+TG047,P0103,Perfect
+TG047,P0104,Perfect
+TG047,P0105,Perfect
+TG048,P0106,Usable
+TG048,P0107,Usable
+TG049,P0108,Perfect
+TG049,P0109,Perfect
+TG050,P0110,Perfect
+TG050,P0111,Perfect
+TG051,P0112,Perfect
+TG051,P0113,Perfect
+TG052,P0114,Usable
+TG052,P0115,Usable
+TG053,P0116,NIL
+TG053,P0117,NIL
+TG054,P0118,NIL
+TG054,P0117,NIL
+TG055,P0119,NIL
+TG055,P0117,NIL
+TG056,P0120,Perfect
+TG056,P0121,Perfect
+TG057,P0122,Perfect
+TG057,P0123,Perfect
+TG058,P0124,Usable
+TG058,P0125,Usable
+TG059,P0126,Perfect
+TG059,P0127,Perfect
+TG060,P0128,Usable
+TG060,P0129,Usable
+TG061,P0130,Perfect
+TG061,P0131,Perfect
+TG061,P0132,Perfect
+TG061,P0133,Perfect
+TG061,P0134,Perfect
+TG061,P0135,Perfect
+TG061,P0136,Perfect
+TG061,P0137,Perfect
+TG061,P0138,Perfect
+TG061,P0139,Perfect
+TG061,P0140,Perfect
+TG061,P0141,Perfect
+TG062,P0142,Nil
+TG062,P0143,Nil
+TG063,P0144,Perfect
+TG063,P0145,Perfect
+TG064,P0067,Usable
+TG064,P0146,Usable
+TG064,P0147,Usable
+TG064,P0148,Usable
+TG064,P0149,Usable
+TG064,P0150,Usable
+TG064,P0151,Usable
+TG064,P0152,Usable
+TG064,P0153,Usable
+TG064,P0154,Usable
+TG064,P0155,Usable
+TG064,P0156,Usable
+TG065,P0157,Perfect & Usable
+TG065,P0158,Perfect & Usable
+TG065,P0159,Perfect & Usable
+TG065,P0160,Perfect & Usable
+TG065,P0161,Perfect & Usable
+TG065,P0162,Perfect & Usable
+TG065,P0163,Perfect & Usable
+TG065,P0164,Perfect & Usable
+TG065,P0165,Perfect & Usable
+TG065,P0166,Perfect & Usable
+TG065,P0167,Perfect & Usable
+TG065,P0168,Perfect & Usable
+TG065,P0169,Perfect & Usable
+TG065,P0170,Perfect & Usable
+TG065,P0171,Perfect & Usable
+TG065,P0172,Perfect & Usable
+TG065,P0173,Perfect & Usable
+TG065,P0174,Perfect & Usable
+TG065,P0175,Perfect & Usable
+TG065,P0176,Perfect & Usable
+TG065,P0177,Perfect & Usable
+TG065,P0178,Perfect & Usable
+TG065,P0179,Perfect & Usable
+TG065,P0180,Perfect & Usable
+TG065,P0181,Perfect & Usable
+TG065,P0182,Perfect & Usable
+TG065,P0183,Perfect & Usable
+TG065,P0184,Perfect & Usable
+TG065,P0185,Perfect & Usable
+TG065,P0073,Perfect & Usable
+TG065,P0078,Perfect & Usable
+TG065,P0076,Perfect & Usable
+TG065,P0186,Perfect & Usable
+TG065,P0187,Perfect & Usable
+TG065,P0188,Perfect & Usable
+TG065,P0189,Perfect & Usable
+TG065,P0190,Perfect & Usable
+TG065,P0191,Perfect & Usable
+TG065,P0192,Perfect & Usable
+TG065,P0193,Perfect & Usable
+TG065,P0194,Perfect & Usable
+TG065,P0195,Perfect & Usable
+TG065,P0196,Perfect & Usable
+TG065,P0197,Perfect & Usable
+TG065,P0198,Perfect & Usable
+TG065,P0199,Perfect & Usable
+TG065,P0200,Perfect & Usable
+TG065,P0201,Perfect & Usable
+TG065,P0202,Perfect & Usable
+TG065,P0203,Perfect & Usable
+TG065,P0204,Perfect & Usable
+TG065,P0205,Perfect & Usable
+TG065,P0206,Perfect & Usable
+TG065,P0207,Perfect & Usable
+TG065,P0208,Perfect & Usable
+TG065,P0209,Perfect & Usable
+TG065,P0210,Perfect & Usable
+TG065,P0211,Perfect & Usable
+TG065,P0212,Perfect & Usable
+TG065,P0213,Perfect & Usable
+TG065,P0214,Perfect & Usable
+TG065,P0215,Perfect & Usable
+TG065,P0216,Perfect & Usable
+TG065,P0217,Perfect & Usable
+TG065,P0218,Perfect & Usable
+TG065,P0219,Perfect & Usable
+TG065,P0220,Perfect & Usable
+TG065,P0221,Perfect & Usable
+TG065,P0222,Perfect & Usable
+TG065,P0223,Perfect & Usable
+TG065,P0224,Perfect & Usable
+TG065,P0225,Perfect & Usable
+TG065,P0226,Perfect & Usable
+TG065,P0227,Perfect & Usable
+TG065,P0228,Perfect & Usable
+TG065,P0229,Perfect & Usable
+TG065,P0230,Perfect & Usable
+TG065,P0231,Perfect & Usable
+TG065,P0232,Perfect & Usable
+TG065,P0233,Perfect & Usable
+TG065,P0234,Perfect & Usable
+TG065,P0235,Perfect & Usable
+TG065,P0236,Perfect & Usable
+TG065,P0237,Perfect & Usable
+TG065,P0238,Perfect & Usable
+TG065,P0239,Perfect & Usable
+TG065,P0240,Perfect & Usable
+TG065,P0241,Perfect & Usable
+TG065,P0242,Perfect & Usable
+TG065,P0243,Perfect & Usable
+TG065,P0244,Perfect & Usable
+TG065,P0245,Perfect & Usable
+TG065,P0246,Perfect & Usable
+TG065,P0247,Perfect & Usable
+TG065,P0248,Perfect & Usable
+TG065,P0249,Perfect & Usable
+TG065,P0250,Perfect & Usable
+TG065,P0251,Perfect & Usable
+TG065,P0252,Perfect & Usable
+TG065,P0253,Perfect & Usable
+TG065,P0254,Perfect & Usable
+TG065,P0255,Perfect & Usable
+TG065,P0256,Perfect & Usable
+TG065,P0257,Perfect & Usable
+TG065,P0258,Perfect & Usable
+TG065,P0259,Perfect & Usable
+TG065,P0260,Perfect & Usable
+TG065,P0261,Perfect & Usable
+TG065,P0262,Perfect & Usable
+TG065,P0263,Perfect & Usable
+TG065,P0264,Perfect & Usable
+TG065,P0265,Perfect & Usable
+TG065,P0266,Perfect & Usable
+TG065,P0267,Perfect & Usable
+TG065,P0268,Perfect & Usable
+TG065,P0269,Perfect & Usable
+TG065,P0270,Perfect & Usable
+TG065,P0271,Perfect & Usable
+TG065,P0272,Perfect & Usable
+TG065,P0273,Perfect & Usable
+TG065,P0274,Perfect & Usable
+TG065,P0275,Perfect & Usable
+TG065,P0276,Perfect & Usable
+TG065,P0277,Perfect & Usable
+TG065,P0278,Perfect & Usable
+TG065,P0279,Perfect & Usable
+TG065,P0280,Perfect & Usable
+TG065,P0281,Perfect & Usable
+TG065,P0282,Perfect & Usable
+TG065,P0283,Perfect & Usable
+TG065,P0284,Perfect & Usable
+TG065,P0285,Perfect & Usable
+TG065,P0286,Perfect & Usable
+TG065,P0287,Perfect & Usable
+TG065,P0288,Perfect & Usable
+TG065,P0289,Perfect & Usable
+TG065,P0290,Perfect & Usable
+TG065,P0291,Perfect & Usable
+TG065,P0292,Perfect & Usable
+TG065,P0293,Perfect & Usable
+TG065,P0294,Perfect & Usable
+TG065,P0295,Perfect & Usable
+TG065,P0296,Perfect & Usable
+TG065,P0297,Perfect & Usable
+TG065,P0298,Perfect & Usable
+TG065,P0299,Perfect & Usable
+TG065,P0300,Perfect & Usable
+TG065,P0301,Perfect & Usable
+TG065,P0302,Perfect & Usable
+TG065,P0303,Perfect & Usable
+TG065,P0304,Perfect & Usable
+TG065,P0305,Perfect & Usable
+TG065,P0306,Perfect & Usable
+TG065,P0307,Perfect & Usable
+TG065,P0308,Perfect & Usable
+TG065,P0309,Perfect & Usable
+TG065,P0310,Perfect & Usable
+TG065,P0311,Perfect & Usable
+TG065,P0312,Perfect & Usable
+TG065,P0313,Perfect & Usable
+TG065,P0314,Perfect & Usable
+TG065,P0315,Perfect & Usable
+TG065,P0316,Perfect & Usable
+TG065,P0317,Perfect & Usable
+TG065,P0318,Perfect & Usable
+TG065,P0319,Perfect & Usable
+TG065,P0320,Perfect & Usable
+TG065,P0321,Perfect & Usable
+TG065,P0322,Perfect & Usable
+TG065,P0323,Perfect & Usable
+TG065,P0324,Perfect & Usable
+TG065,P0325,Perfect & Usable
+TG065,P0326,Perfect & Usable
+TG065,P0327,Perfect & Usable
+TG065,P0328,Perfect & Usable
+TG065,P0329,Perfect & Usable
+TG065,P0330,Perfect & Usable
+TG065,P0331,Perfect & Usable
+TG065,P0332,Perfect & Usable
+TG065,P0333,Perfect & Usable
+TG065,P0334,Perfect & Usable
+TG065,P0335,Perfect & Usable
+TG065,P0336,Perfect & Usable
+TG065,P0337,Perfect & Usable
+TG065,P0338,Perfect & Usable
+TG065,P0339,Perfect & Usable
+TG065,P0340,Perfect & Usable
+TG065,P0341,Perfect & Usable
+TG065,P0342,Perfect & Usable
+TG065,P0343,Perfect & Usable
+TG065,P0344,Perfect & Usable
+TG065,P0345,Perfect & Usable
+TG065,P0346,Perfect & Usable
+TG065,P0347,Perfect & Usable
+TG065,P0348,Perfect & Usable
+TG065,P0349,Perfect & Usable
+TG065,P0350,Perfect & Usable
+TG065,P0351,Perfect & Usable
+TG065,P0352,Perfect & Usable
+TG065,P0353,Perfect & Usable
+TG065,P0354,Perfect & Usable
+TG065,P0355,Perfect & Usable
+TG065,P0356,Perfect & Usable
+TG065,P0357,Perfect & Usable
+TG065,P0358,Perfect & Usable
+TG065,P0359,Perfect & Usable
+TG065,P0360,Perfect & Usable
+TG065,P0361,Perfect & Usable
+TG065,P0362,Perfect & Usable
+TG065,P0363,Perfect & Usable
+TG065,P0364,Perfect & Usable
+TG065,P0365,Perfect & Usable
+TG065,P0366,Perfect & Usable
+TG065,P0367,Perfect & Usable
+TG065,P0368,Perfect & Usable
+TG065,P0369,Perfect & Usable
+TG065,P0370,Perfect & Usable
+TG065,P0371,Perfect & Usable
+TG065,P0372,Perfect & Usable
+TG065,P0373,Perfect & Usable
+TG065,P0374,Perfect & Usable
+TG065,P0375,Perfect & Usable
+TG065,P0376,Perfect & Usable
+TG065,P0377,Perfect & Usable
+TG065,P0378,Perfect & Usable
+TG065,P0379,Perfect & Usable
+TG065,P0380,Perfect & Usable
+TG065,P0381,Perfect & Usable
+TG065,P0382,Perfect & Usable
+TG065,P0383,Perfect & Usable
+TG065,P0384,Perfect & Usable
+TG065,P0385,Perfect & Usable
+TG065,P0386,Perfect & Usable
+TG065,P0387,Perfect & Usable
+TG065,P0388,Perfect & Usable
+TG065,P0389,Perfect & Usable
+TG065,P0390,Perfect & Usable
+TG065,P0391,Perfect & Usable
+TG065,P0392,Perfect & Usable
+TG065,P0393,Perfect & Usable
+TG065,P0394,Perfect & Usable
+TG065,P0395,Perfect & Usable
+TG065,P0396,Perfect & Usable
+TG065,P0397,Perfect & Usable
+TG065,P0398,Perfect & Usable
+TG065,P0399,Perfect & Usable
+TG065,P0400,Perfect & Usable
+TG065,P0401,Perfect & Usable
+TG065,P0402,Perfect & Usable
+TG065,P0403,Perfect & Usable
+TG065,P0404,Perfect & Usable
+TG065,P0405,Perfect & Usable
+TG065,P0406,Perfect & Usable
+TG065,P0407,Perfect & Usable
+TG065,P0408,Perfect & Usable
+TG065,P0409,Perfect & Usable
+TG065,P0410,Perfect & Usable
+TG065,P0411,Perfect & Usable
+TG065,P0412,Perfect & Usable
+TG065,P0413,Perfect & Usable
+TG065,P0414,Perfect & Usable
+TG065,P0415,Perfect & Usable
+TG065,P0416,Perfect & Usable
+TG065,P0417,Perfect & Usable
+TG065,P0418,Perfect & Usable
+TG065,P0419,Perfect & Usable
+TG065,P0420,Perfect & Usable
+TG065,P0421,Perfect & Usable
+TG065,P0422,Perfect & Usable
+TG065,P0423,Perfect & Usable
+TG065,P0424,Perfect & Usable
+TG065,P0425,Perfect & Usable
+TG065,P0426,Perfect & Usable
+TG065,P0427,Perfect & Usable
+TG065,P0428,Perfect & Usable
+TG065,P0429,Perfect & Usable
+TG065,P0430,Perfect & Usable
+TG065,P0431,Perfect & Usable
+TG065,P0432,Perfect & Usable
+TG065,P0433,Perfect & Usable
+TG065,P0434,Perfect & Usable
+TG065,P0435,Perfect & Usable
+TG065,P0436,Perfect & Usable
+TG065,P0437,Perfect & Usable
+TG065,P0438,Perfect & Usable
+TG065,P0439,Perfect & Usable
+TG065,P0440,Perfect & Usable
+TG065,P0441,Perfect & Usable
+TG065,P0442,Perfect & Usable
+TG065,P0443,Perfect & Usable
+TG065,P0444,Perfect & Usable
+TG065,P0445,Perfect & Usable
+TG065,P0446,Perfect & Usable
+TG066,P0447,Perfect
+TG066,P0448,Perfect
+TG066,P0449,Perfect
+TG066,P0450,Perfect
+TG066,P0451,Perfect
+TG066,P0452,Perfect
+TG066,P0239,Perfect
+TG066,P0453,Perfect
+TG066,P0454,Perfect
+TG066,P0455,Perfect
+TG066,P0456,Perfect
+TG066,P0267,Perfect
+TG066,P0457,Perfect
+TG066,P0458,Perfect
+TG066,P0459,Perfect
+TG066,P0460,Perfect
+TG066,P0461,Perfect
+TG066,P0462,Perfect
+TG066,P0260,Perfect
+TG066,P0463,Perfect
+TG066,P0464,Perfect
+TG066,P0465,Perfect
+TG066,P0466,Perfect
+TG066,P0467,Perfect
+TG066,P0468,Perfect
+TG066,P0469,Perfect
+TG066,P0470,Perfect
+TG066,P0353,Perfect
+TG066,P0471,Perfect
+TG066,P0472,Perfect
+TG066,P0473,Perfect
+TG066,P0474,Perfect
+TG066,P0475,Perfect
+TG066,P0476,Perfect
+TG066,P0477,Perfect
+TG066,P0478,Perfect
+TG066,P0479,Perfect
+TG066,P0480,Perfect
+TG066,P0481,Perfect
+TG066,P0482,Perfect
+TG066,P0483,Perfect
+TG066,P0484,Perfect
+TG066,P0263,Perfect
+TG066,P0352,Perfect
+TG066,P0354,Perfect
+TG066,P0485,Perfect
+TG066,P0256,Perfect
+TG066,P0265,Perfect
+TG066,P0486,Perfect
+TG066,P0200,Perfect
+TG066,P0487,Perfect
+TG066,P0488,Perfect
+TG066,P0253,Perfect
+TG066,P0254,Perfect
+TG066,P0489,Perfect
+TG066,P0490,Perfect
+TG066,P0491,Perfect
+TG066,P0492,Perfect
+TG066,P0493,Perfect
+TG066,P0264,Perfect
+TG066,P0494,Perfect
+TG066,P0495,Perfect
+TG066,P0496,Perfect
+TG066,P0497,Perfect
+TG066,P0359,Perfect
+TG066,P0360,Perfect
+TG066,P0498,Perfect
+TG066,P0499,Perfect
+TG066,P0500,Perfect

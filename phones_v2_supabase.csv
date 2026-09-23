@@ -1,0 +1,502 @@
+﻿id,brand,model
+P0001,Samsung,Galaxy A12
+P0002,Samsung,Galaxy A02
+P0003,Samsung,Galaxy A03
+P0004,Samsung,Galaxy A04
+P0005,Samsung,Galaxy A14
+P0006,Samsung,Galaxy A15
+P0007,Samsung,Galaxy M14
+P0008,Samsung,Galaxy F14
+P0009,Vivo,V11
+P0010,OPPO,A52
+P0011,Apple,iPhone 7
+P0012,Apple,iPhone 8
+P0013,Apple,iPhone X
+P0014,Apple,iPhone XS
+P0015,Apple,11 Pro
+P0016,Apple,iPhone XS Max
+P0017,Apple,iPhone 11 Pro Max
+P0018,Apple,iPhone XR
+P0019,Apple,iPhone 11
+P0020,Apple,iPhone 12
+P0021,Apple,iPhone 12 Pro
+P0022,Apple,iPhone 13
+P0023,Apple,iPhone 14
+P0024,Apple,13 Pro
+P0025,Apple,16e
+P0026,Apple,iPhone 12 mini
+P0027,Apple,iPhone 13 mini
+P0028,Apple,iPhone 14 Plus
+P0029,Apple,iPhone 13 Pro Max
+P0030,Apple,iPhone 15
+P0031,Apple,iPhone 16
+P0032,Samsung,Galaxy A52
+P0033,Samsung,Galaxy A52s
+P0034,Samsung,Galaxy A53
+P0035,Samsung,Galaxy M13
+P0036,Samsung,Galaxy F13
+P0037,Redmi,Redmi Note 9
+P0038,Redmi,Note 9S
+P0039,Redmi,Note 9 Pro
+P0040,POCO,M2 Pro
+P0041,Redmi,Redmi Note 10
+P0042,Redmi,Note 10S
+P0043,Redmi,Note 11S
+P0044,POCO,M4 Pro
+P0045,Redmi,Redmi Note 12
+P0046,POCO,X5
+P0047,Redmi,Nord CE 3 Lite
+P0048,OPPO,F11 Pro
+P0049,Realme,X
+P0050,OPPO,K3
+P0051,OPPO,OPPO A7
+P0052,OPPO,A5S
+P0053,OPPO,A11K
+P0054,OPPO,A12
+P0055,OPPO,OPPO F19
+P0056,OPPO,F21 Pro
+P0057,OPPO,A74
+P0058,OPPO,Reno 6
+P0059,OPPO,Reno 5
+P0060,OPPO,Nord 2
+P0061,Vivo,Vivo Y20
+P0062,Vivo,Y20A
+P0063,Vivo,Y12s
+P0064,Vivo,Vivo Y21
+P0065,Vivo,Y21T
+P0066,Vivo,Y33s
+P0067,Vivo,Vivo V20
+P0068,Vivo,V20 SE
+P0069,Vivo,Vivo V25
+P0070,iQOO,Z6 Pro
+P0071,Realme,Realme 8
+P0072,Realme,8i
+P0073,Realme,Narzo 30
+P0074,Realme,Realme 9
+P0075,Realme,9 Pro
+P0076,Realme,Narzo 50
+P0077,Realme,Realme C25
+P0078,Realme,Narzo 30A
+P0079,OnePlus,OnePlus Nord CE 2
+P0080,OnePlus,Nord CE 3
+P0081,OPPO,Reno 7
+P0082,OnePlus,OnePlus 9
+P0083,OnePlus,9R
+P0084,OnePlus,8T
+P0085,Motorola,Moto G67 Power
+P0086,Motorola,NIL
+P0087,REDMI,Redmi Note 10 Pro 4g
+P0088,Redmi,Note 10 Pro  max 4g
+P0089,REDMI,K40
+P0090,REDMI,K40 Pro
+P0091,REDMI,K40 pro plus or +
+P0092,Redmi,Note 11 pro
+P0093,REDMI,Note 11 Pro Plus or + / Poco F3
+P0094,POCO,X4 NFC
+P0095,Apple,iPhone 4
+P0096,Apple,iPhone 4s
+P0097,Apple,iPhone 5
+P0098,Apple,iPhone 5c
+P0099,Apple,5s
+P0100,Apple,iPhone SE
+P0101,Apple,iPhone 6 Plus
+P0102,Apple,iPhone 6s Plus
+P0103,Apple,7
+P0104,Apple,8
+P0105,Apple,SE
+P0106,Apple,iPhone 15 Pro
+P0107,Apple,iPhone 16 Pro
+P0108,Apple,iPhone 15 Pro Max
+P0109,Apple,iPhone 16 Pro Max
+P0110,Apple,iPhone 16 Plus
+P0111,Apple,iPhone 15 Plus
+P0112,Apple,iPhone 7 Plus
+P0113,Apple,iPhone 8 Plus
+P0114,Apple,iPhone 17
+P0115,Apple,iPhone 17 Pro
+P0116,Apple,iPhone 17 Pro Max
+P0117,Apple,NIL
+P0118,Apple,iPhone 17e
+P0119,Apple,iPhone 17 Air
+P0120,Samsung,Samsung Galaxy S22
+P0121,Samsung,Galaxy S23
+P0122,Samsung,Galaxy S8
+P0123,Samsung,Galaxy S9
+P0124,Samsung,Galaxy S8 Plus
+P0125,Samsung,Galaxy S9 Plus
+P0126,Samsung,Galaxy S20
+P0127,Samsung,Galaxy S21
+P0128,Samsung,Samsung Galaxy S20 Plus
+P0129,Samsung,Galaxy S21 Plus
+P0130,Samsung,Galaxy A50
+P0131,Samsung,Galaxy A20
+P0132,Samsung,A30
+P0133,Samsung,M30
+P0134,Samsung,A40s
+P0135,Samsung,M31
+P0136,Samsung,A30s
+P0137,Samsung,A50s
+P0138,Samsung,M30s
+P0139,Samsung,M21
+P0140,Samsung,F41
+P0141,Samsung,M10s
+P0142,Samsung,Galaxy A20s
+P0143,Samsung,Nil
+P0144,Redmi,Redmi 8
+P0145,Redmi,8A
+P0146,Vivo,V20SE
+P0147,vivo,V21E 4g
+P0148,vivo,V21 E 5g
+P0149,vivo,Y70
+P0150,vivo,Y73
+P0151,vivo,Y73s
+P0152,vivo,"S6 5g /
+ Oppo A73"
+P0153,vivo,A91
+P0154,vivo,F15
+P0155,vivo,F17
+P0156,vivo,Reno 3.
+P0157,Realme,Realme 5
+P0158,Realme,5i
+P0159,Realme,5s
+P0160,Realme,6i
+P0161,Realme,10 (4g)
+P0162,Realme,10 (5g)
+P0163,Realme,10s
+P0164,Realme,11
+P0165,Realme,11 Prime (4g)
+P0166,Realme,11 Prime (5g) - Realme C3
+P0167,Realme,C11
+P0168,Realme,C12
+P0169,Realme,C15
+P0170,Realme,C20
+P0171,Realme,C20A
+P0172,Realme,C21
+P0173,Realme,C21Y
+P0174,Realme,C25
+P0175,Realme,C25s
+P0176,Realme,C25Y
+P0177,Realme,C30
+P0178,Realme,C30s
+P0179,Realme,C31
+P0180,Realme,C33
+P0181,Realme,C35
+P0182,Realme,50i Prime - Narzo 10
+P0183,Realme,Narzo 10A
+P0184,Realme,Narzo 20
+P0185,Realme,Narzo 20A
+P0186,Realme,Narzo 50 5G
+P0187,Realme,Narzo 50A
+P0188,Realme,Narzo 50i
+P0189,Realme,Narzo 50i Prime
+P0190,Realme,Narzo N55 / OPPO A Series: A1k
+P0191,Realme,A2
+P0192,Realme,A3 (4G/5G)
+P0193,Realme,A3i
+P0194,Realme,A3x (4G/5G)
+P0195,Realme,A3x China
+P0196,Realme,A3 Pro India
+P0197,Realme,A5 (4G/5G)
+P0198,Realme,A5 2020
+P0199,Realme,A5M
+P0200,Realme,A5x
+P0201,Realme,A5 Energy
+P0202,Realme,A5 Pro (4G/5G)
+P0203,Realme,A9 2020
+P0204,Realme,A11
+P0205,Realme,A11x
+P0206,Realme,A12
+P0207,Realme,A13 5G
+P0208,Realme,A15
+P0209,Realme,A15s
+P0210,Realme,A16
+P0211,Realme,A16E
+P0212,Realme,A16K
+P0213,Realme,A16s
+P0214,Realme,A17
+P0215,Realme,A17K
+P0216,Realme,A18
+P0217,Realme,A20
+P0218,Realme,A31
+P0219,Realme,A32 5G
+P0220,Realme,A33
+P0221,Realme,A35
+P0222,Realme,A38
+P0223,Realme,A40
+P0224,Realme,A40M
+P0225,Realme,A51
+P0226,Realme,A51 Pro
+P0227,Realme,A52 2020
+P0228,Realme,A53
+P0229,Realme,A53s
+P0230,Realme,A54s
+P0231,Realme,A55 5G
+P0232,Realme,A56 5G
+P0233,Realme,A57 4G
+P0234,Realme,A57 5G
+P0235,Realme,A57E
+P0236,Realme,A58 4G
+P0237,Realme,A58 5G
+P0238,Realme,A59 (5G)
+P0239,Realme,A60
+P0240,Realme,A77 4G
+P0241,Realme,A77 5G
+P0242,Realme,A77s
+P0243,Realme,A78 5G
+P0244,Realme,A79 (5G)
+P0245,Realme,A80 A98/OP F23
+P0246,Realme,A100/City 100 - F / K / Reno Series: F23
+P0247,Realme,K11x
+P0248,Realme,K12x
+P0249,Realme,Reno Me 55
+P0250,Realme,C63 (5G)
+P0251,Realme,C65
+P0252,Realme,C67 (4G/5G)
+P0253,Realme,C71
+P0254,Realme,C73
+P0255,Realme,C75
+P0256,Realme,C75X
+P0257,Realme,Reno Me 11 (5G)
+P0258,Realme,11x
+P0259,Realme,12 (5G)
+P0260,Realme,12 Lite
+P0261,Realme,12x
+P0262,Realme,13 (5G)
+P0263,Realme,14x
+P0264,Realme,P3 Lite
+P0265,Realme,P3X
+P0266,Realme,Reno V50
+P0267,Realme,V50s
+P0268,Realme,V60 Pro / OnePlus: Nord N300
+P0269,Realme,Nord N30 SE
+P0270,Realme,Nord CE3 Lite / Vivo V & T Series: V11
+P0271,Realme,V20
+P0272,Realme,V23
+P0273,Realme,V56 5G
+P0274,Realme,T1
+P0275,Realme,T1 5G
+P0276,Realme,T1x
+P0277,Realme,T1x 4G
+P0278,Realme,T2x 5G
+P0279,Realme,T3 Lite - Y Series: Y01
+P0280,Realme,Y02
+P0281,Realme,Y02A
+P0282,Realme,Y02s
+P0283,Realme,Y02t
+P0284,Realme,Y03
+P0285,Realme,Y11
+P0286,Realme,Y11 4G 2023
+P0287,Realme,Y11s
+P0288,Realme,Y12
+P0289,Realme,Y12a
+P0290,Realme,Y12G
+P0291,Realme,Y12s
+P0292,Realme,Y15a
+P0293,Realme,Y15s
+P0294,Realme,Y16
+P0295,Realme,Y17
+P0296,Realme,Y17s
+P0297,Realme,Y18
+P0298,Realme,Y18e
+P0299,Realme,Y20
+P0300,Realme,Y20A
+P0301,Realme,Y20G
+P0302,Realme,Y20i
+P0303,Realme,Y20s
+P0304,Realme,Y20s G
+P0305,Realme,Y21
+P0306,Realme,Y21A
+P0307,Realme,Y21e
+P0308,Realme,Y21s
+P0309,Realme,Y21t
+P0310,Realme,Y22
+P0311,Realme,Y22s
+P0312,Realme,Y21D
+P0313,Realme,Y28 (4G)
+P0314,Realme,Y28 (4G/5G)
+P0315,Realme,Y29 (4G/5G)
+P0316,Realme,Y31 (5G)
+P0317,Realme,Y31 2020
+P0318,Realme,Y31s
+P0319,Realme,Y31s 2021
+P0320,Realme,Y31t Pro
+P0321,Realme,Y32
+P0322,Realme,Y33
+P0323,Realme,Y33s
+P0324,Realme,Y33t
+P0325,Realme,Y35
+P0326,Realme,Y35 5G
+P0327,Realme,Y35+
+P0328,Realme,Y36 (India)
+P0329,Realme,Y37 Pro
+P0330,Realme,Y37/Y39
+P0331,Realme,Y51 2020
+P0332,Realme,Y51a
+P0333,Realme,Y52 5G
+P0334,Realme,Y52s
+P0335,Realme,Y52t
+P0336,Realme,Y53s
+P0337,Realme,Y54s
+P0338,Realme,Y55 5G
+P0339,Realme,Y56
+P0340,Realme,Y58
+P0341,Realme,Y72 5G
+P0342,Realme,Y72t
+P0343,Realme,Y74s
+P0344,Realme,Y75 5G
+P0345,Realme,Y76 5G
+P0346,Realme,Y76s
+P0347,Realme,Y77
+P0348,Realme,Y77e
+P0349,Realme,Y77s
+P0350,Realme,Y83
+P0351,Realme,Y200i
+P0352,Realme,Y200+
+P0353,Realme,Y200T
+P0354,Realme,Y300i
+P0355,Realme,Y300T / iQOO Series: iQOO Z6
+P0356,iQOO,Z6 Lite
+P0357,iQOO,Z3 5G
+P0358,iQOO,Z7
+P0359,iQOO,Z9x
+P0360,iQOO,Z10X
+P0361,iQOO,Neo7 / Infinix Hot / Smart: Hot 8
+P0362,Realme,Hot 10
+P0363,Realme,Hot 10i
+P0364,Realme,Hot 11
+P0365,Realme,Hot 12 Pro
+P0366,Realme,Hot 20i
+P0367,Realme,Hot 30i
+P0368,Realme,Smart 5
+P0369,Realme,Smart 6
+P0370,Realme,Smart 7
+P0371,Realme,Smart 7 (India)
+P0372,Realme,Smart 7+
+P0373,Realme,Smart 7 HD
+P0374,Realme,Smart 8 HD / Tecno Spark: Spark 4
+P0375,Realme,Spark 4 Lite
+P0376,Realme,Spark 6
+P0377,Realme,Spark 7
+P0378,Realme,Spark 7T
+P0379,Realme,Spark 8
+P0380,Realme,Spark 8T
+P0381,Realme,Spark 9 Pro
+P0382,Realme,Pop 7
+P0383,Realme,Pop 7 Pro
+P0384,Realme,Spark 10
+P0385,Realme,Spark 10C
+P0386,Realme,Spark Go 2023 / Xiaomi & Redmi: A1
+P0387,Realme,A1+
+P0388,Realme,A2+
+P0389,Realme,10 5G
+P0390,Realme,Note 11E
+P0391,Realme,Note 11
+P0392,Realme,Note 12
+P0393,Realme,Note 12 Pro
+P0394,Realme,Note 12 4G
+P0395,Realme,Note 12 5G
+P0396,Realme,Note 12 5G China
+P0397,Realme,Note 12R Pro
+P0398,Redmi,Note 11R / POCO Series: POCO C3
+P0399,POCO,C31
+P0400,POCO,C50
+P0401,POCO,C51
+P0402,POCO,M4
+P0403,POCO,M4 5G
+P0404,POCO,M5
+P0405,POCO,X5 (5G) / Samsung Galaxy: A02
+P0406,Realme,A02s
+P0407,Realme,A03
+P0408,Realme,A03s
+P0409,Realme,A03 Core
+P0410,Realme,A04
+P0411,Realme,A04s
+P0412,Realme,A04e
+P0413,Realme,A04 Core
+P0414,Realme,M04
+P0415,Realme,F04
+P0416,Realme,A13
+P0417,Realme,A23
+P0418,Realme,A23 5G
+P0419,Realme,F02s
+P0420,Realme,F12
+P0421,Realme,F13
+P0422,Realme,F23
+P0423,Realme,M02
+P0424,Realme,M02s
+P0425,Realme,M12
+P0426,Realme,M13
+P0427,Realme,M13 5G
+P0428,Realme,M23
+P0429,Realme,M32 5G
+P0430,Realme,M33 / Motorola: Moto E15
+P0431,Realme,Moto G05
+P0432,Realme,Moto G15
+P0433,Realme,Moto G15 Power
+P0434,Realme,Moto G56
+P0435,Realme,Moto G66J
+P0436,Realme,Moto G66Y
+P0437,Realme,Edge 20 Lite
+P0438,Realme,Edge 20 Fusion / Honor: Honor X8 5G
+P0439,Honor,X5
+P0440,Honor,X6
+P0441,Realme,Jonor X5/X6/Hot 20 5G/201/HW V61 (misprinted variant list)
+P0442,Honor,X5b
+P0443,Honor,X6b / Other: IT Vision 1 Pro
+P0444,Realme,Vision 3
+P0445,Realme,MO E13/E22/E22i
+P0446,Realme,Pro/Itel A100
+P0447,OnePlus,Nord CE 3 Lite
+P0448,OnePlus,Nord N30
+P0449,OnePlus,Nord N30 SE
+P0450,OPPO,F23 5G
+P0451,Realme,C55
+P0452,Realme,C67 4G/5G
+P0453,Realme,11x 5G
+P0454,Realme,11 5G
+P0455,Realme,12 5G
+P0456,Realme,V50
+P0457,Realme,12x 5G
+P0458,Realme,C63 5G
+P0459,Vivo,Y39
+P0460,Vivo,Y59
+P0461,Realme,V60
+P0462,Realme,V60s
+P0463,Realme,C65 4G/5G
+P0464,Realme,13 5G
+P0465,Realme,V60 Pro
+P0466,Realme,Narzo 60x
+P0467,Realme,Narzo N55
+P0468,Realme,Narzo 70x
+P0469,Vivo,Y37 Pro
+P0470,Realme,Narzo N65
+P0471,Vivo,Y58
+P0472,Vivo,Y200i
+P0473,Vivo,Y12x
+P0474,Vivo,Y28 4G
+P0475,Vivo,Y19s
+P0476,OPPO,A98 5G
+P0477,OPPO,A1
+P0478,OPPO,A2
+P0479,OPPO,A5
+P0480,OPPO,A80
+P0481,OPPO,A3 4G/5G
+P0482,OPPO,A3 Pro (India)
+P0483,OPPO,A3x
+P0484,Vivo,Y29
+P0485,Realme,Y300T
+P0486,Realme,Narzo 80x
+P0487,Realme,A5i
+P0488,Realme,A5 Pro
+P0489,OPPO,K13x
+P0490,Realme,T3x 5G
+P0491,Realme,C38
+P0492,Vivo,Y19s Pro
+P0493,Realme,Narzo 80 Lite 5G
+P0494,Vivo,Y21D
+P0495,Vivo,Y31 5G
+P0496,Vivo,Y31 Pro 5G
+P0497,OnePlus,Nord CE6 Lite
+P0498,Motorola,G37
+P0499,Motorola,G37 Power
+P0500,Motorola,G47
