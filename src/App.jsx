@@ -1247,6 +1247,57 @@ const groupedTemperedGroups =
   </motion.div>
 
 )}
+{/* SHOP ACCESSORIES */}
+
+{search.length === 0 && (
+  <section className="max-w-6xl mx-auto mb-14">
+
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      className="text-center mb-8"
+    >
+      <h2 className="text-3xl md:text-5xl font-bold mb-3">
+        🛍️ Shop Accessories
+      </h2>
+
+      <p className="text-gray-400 text-lg">
+        Browse what's available at M.M TIMES
+      </p>
+    </motion.div>
+
+    <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
+
+      {[
+        ["🛡️", "Tempered Glass"],
+        ["📱", "Back Cases"],
+        ["🔌", "Chargers"],
+        ["⚡", "Cables"],
+        ["🎧", "Earphones"],
+        ["🧩", "Other Accessories"],
+      ].map(([icon, category]) => (
+
+        <div
+          key={category}
+          className="bg-gray-900 border border-gray-700 rounded-2xl p-5 text-center hover:border-cyan-400 hover:shadow-[0_0_25px_rgba(34,211,238,0.2)] transition cursor-pointer"
+        >
+
+          <div className="text-4xl mb-3">
+            {icon}
+          </div>
+
+          <h3 className="font-bold text-sm md:text-base">
+            {category}
+          </h3>
+
+        </div>
+
+      ))}
+
+    </div>
+
+  </section>
+)}
 
       {/* RESULTS */}
 
@@ -1879,70 +1930,7 @@ const groupedTemperedGroups =
 
   )}
   
-  {/* AVAILABLE PRODUCTS */}
-
-{selectedPhone?.compatibleProducts &&
-selectedPhone.compatibleProducts.length > 0 && (
-  <div className="mt-8">
-
-    <p className="text-gray-400 text-sm mb-3">
-      Available Products
-    </p>
-
-    <div className="space-y-3">
-
-      {selectedPhone.compatibleProducts.map((product) => (
-        <div
-          key={product.id}
-          className="border border-white/10 rounded-2xl p-4 bg-white/5"
-        >
-
-          <div className="flex justify-between items-start gap-4">
-
-            <div>
-              <h3 className="text-lg font-bold text-cyan-400">
-                {product.product_name}
-              </h3>
-
-              <p className="text-gray-400 text-sm mt-1">
-                {product.category}
-              </p>
-            </div>
-
-            <div className="text-right">
-              {product.sale_price ? (
-                <>
-                  <p className="text-gray-500 line-through text-sm">
-                    ₹{product.price}
-                  </p>
-
-                  <p className="text-green-400 font-bold text-lg">
-                    ₹{product.sale_price}
-                  </p>
-                </>
-              ) : (
-                <p className="text-green-400 font-bold text-lg">
-                  ₹{product.price}
-                </p>
-              )}
-            </div>
-
-          </div>
-
-          <p className="text-gray-400 text-sm mt-3">
-            {product.stock > 0
-              ? `In Stock • ${product.stock} available`
-              : "Out of Stock"}
-          </p>
-
-        </div>
-      ))}
-
-    </div>
-
-  </div>
-)}
-
+  
 </div>
 
 
