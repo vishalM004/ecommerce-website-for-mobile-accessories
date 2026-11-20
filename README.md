@@ -2,7 +2,7 @@
 
 A responsive e-commerce web application designed to showcase and sell premium mobile accessories, with product management and phone compatibility features.
 
-## 🚀 Features
+Features
 
 - Responsive design for desktop and mobile devices
 - Product browsing and category-based filtering
@@ -15,7 +15,7 @@ A responsive e-commerce web application designed to showcase and sell premium mo
 - Product stock tracking using Supabase
 - Animated loading screen and interactive UI
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Frontend:** React.js
 - **Styling:** Tailwind CSS
@@ -24,7 +24,7 @@ A responsive e-commerce web application designed to showcase and sell premium mo
 - **Development Tools:** VS Code, Git, GitHub
 - **Build Tool:** Vite
 
-## 📂 Project Setup
+##  Project Setup
 
 1. Clone the repository:
 
@@ -57,13 +57,13 @@ A responsive e-commerce web application designed to showcase and sell premium mo
    npm run dev
    ```
 
-## 🔐 Environment Variables
+## Environment Variables
 
 This project uses Supabase for database connectivity.
 
 Keep your `.env` file private. Never upload API secrets or private credentials to GitHub.
 
-## 👨‍💻 Developer
+##  Developer
 
 **M.M TIMES & MOBILES**
 
