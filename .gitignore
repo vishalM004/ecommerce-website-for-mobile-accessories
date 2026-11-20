@@ -37,3 +37,10 @@ dist/
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Temporary downloaded files
+*.download
+
+# Windows system files
+Thumbs.db
+Untitled query*

@@ -1,3 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap');
+
+:root {
+  --mm-bg: #f7f4ee;
+  --mm-surface: #ffffff;
+  --mm-text: #171513;
+  --mm-muted: #716b63;
+  --mm-border: #e7e0d5;
+  --mm-brown: #6b4428;
+  --mm-brown-dark: #4b2d1b;
+  --mm-gold: #b68a4a;
+}
+
+body {
+  margin: 0;
+  background: var(--mm-bg);
+  color: var(--mm-text);
+  font-family: 'DM Sans', sans-serif;
+}
+
+.font-premium {
+  font-family: 'Playfair Display', serif;
+}
 .counter {
   font-size: 16px;
   padding: 5px 10px;
@@ -173,10 +196,282 @@
     border: 5px solid transparent;
   }
 
-  &::before {}
   &::after {
     right: 0;
     border-right-color: var(--border);
   }
 }
 
+/* TEMPERED GLASS MOVING SHINE */
+
+.glass-body {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+}
+
+.glass-shine {
+  position: absolute;
+  top: -20%;
+  left: -100%;
+  width: 65%;
+  height: 140%;
+  z-index: 10;
+  pointer-events: none;
+
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255,255,255,0.25) 25%,
+    rgba(255,255,255,0.95) 50%,
+    rgba(255,255,255,0.25) 75%,
+    transparent 100%
+  );
+
+  filter: blur(2px);
+  transform: skewX(-22deg);
+  animation: glassSweep 2s ease-in-out infinite;
+}
+
+@keyframes glassSweep {
+  0% {
+    left: -100%;
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    left: 150%;
+    opacity: 0;
+  }
+}
+
+.glass-glow {
+  position: absolute;
+  inset: 0;
+  z-index: 5;
+  pointer-events: none;
+  background: linear-gradient(
+    110deg,
+    transparent 20%,
+    rgba(255,255,255,0.25) 50%,
+    transparent 80%
+  );
+  animation: glassGlow 3s ease-in-out infinite alternate;
+}
+
+@keyframes glassGlow {
+  from { transform: translateX(-30%); opacity: 0.2; }
+  to { transform: translateX(30%); opacity: 0.8; }
+}
+
+
+
+/* POWERBANK ANIMATION */
+.mm-powerbank {
+  position: absolute;
+  z-index: 0;
+  animation: mmPowerbankAttach 2s 0.8s cubic-bezier(.2,.8,.2,1) both;
+}
+
+@keyframes mmPowerbankAttach {
+  0% {
+    opacity: 0;
+    transform: translateX(200px) scale(.8);
+  }
+  55% {
+    opacity: 1;
+    transform: translateX(65px) scale(1);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(48px) scale(1);
+  }
+}
+
+/* PIXEL CHARGING RING */
+.mm-pixel-ring {
+  width: 58px;
+  height: 58px;
+  border: 2px solid #e6c385;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow:
+    0 0 10px rgba(230, 195, 133, 0.7),
+    inset 0 0 10px rgba(230, 195, 133, 0.2);
+  animation: pixelRingPulse 2s ease-in-out infinite;
+}
+
+.mm-pixel-ring span {
+  color: #fff1d5;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+@keyframes pixelRingPulse {
+  0%, 100% {
+    transform: scale(0.95);
+    box-shadow: 0 0 8px rgba(230, 195, 133, 0.4);
+  }
+  50% {
+    transform: scale(1.08);
+    box-shadow: 0 0 22px rgba(230, 195, 133, 0.9);
+  }
+}
+
+/* PIXEL-INSPIRED LOCK SCREEN */
+
+.mm-pixel-lockscreen {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #f8f1e5;
+  text-align: center;
+}
+
+/* Screen wakes after powerbank connects */
+.mm-charge-screen {
+  opacity: 0;
+  animation: mmChargingWake 0.5s ease-out 2.8s forwards;
+}
+
+@keyframes mmChargingWake {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.mm-lock-time {
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+.mm-lock-date {
+  font-size: 7px;
+  margin-top: 3px;
+  color: rgba(248, 241, 229, 0.75);
+}
+
+.mm-fingerprint {
+  margin-top: 35px;
+}
+
+.mm-fingerprint-ring {
+  width: 43px;
+  height: 43px;
+  border: 1px solid rgba(230, 195, 133, 0.8);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 12px rgba(230, 195, 133, 0.35);
+  animation: pixelFingerprintGlow 2s ease-in-out infinite;
+}
+
+.mm-fingerprint-core {
+  width: 29px;
+  height: 29px;
+  border: 1px solid rgba(230, 195, 133, 0.5);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #e6c385;
+}
+
+.mm-fingerprint-core span {
+  font-size: 15px;
+}
+
+.mm-lock-charging {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-top: 20px;
+  font-size: 6px;
+  letter-spacing: 0.7px;
+  color: #e8d6b5;
+}
+
+.mm-charging-dot {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: #e6c385;
+  box-shadow: 0 0 7px #e6c385;
+}
+
+@keyframes pixelFingerprintGlow {
+  0%, 100% {
+    transform: scale(0.95);
+    box-shadow: 0 0 7px rgba(230, 195, 133, 0.2);
+  }
+  50% {
+    transform: scale(1.08);
+    box-shadow: 0 0 18px rgba(230, 195, 133, 0.65);
+  }
+}
+
+/* VISIBLE MOVING ENERGY PARTICLES */
+
+.mm-energy-field {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.mm-particle {
+  position: absolute;
+  left: 50%;
+  top: 43%;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #ffffff;
+  opacity: 0;
+  box-shadow:
+    0 0 6px 3px #ffe6ad,
+    0 0 14px 5px rgba(255, 210, 130, 0.9);
+  animation: energyBurst 5.2s ease-out infinite;
+}
+.mm-p1  { --dx: -55px; --dy: -100px; animation-delay: 0s; }
+.mm-p2  { --dx: 55px; --dy: -100px; animation-delay: .15s; }
+.mm-p3  { --dx: -55px; --dy: 100px; animation-delay: .3s; }
+.mm-p4  { --dx: 55px; --dy: 100px; animation-delay: .45s; }
+.mm-p5  { --dx: -60px; --dy: 0px; animation-delay: .6s; }
+.mm-p6  { --dx: 60px; --dy: 0px; animation-delay: .75s; }
+.mm-p7  { --dx: 0px; --dy: -125px; animation-delay: .9s; }
+.mm-p8  { --dx: 0px; --dy: 125px; animation-delay: 1.05s; }
+.mm-p9  { --dx: -35px; --dy: -65px; animation-delay: 1.2s; }
+.mm-p10 { --dx: 35px; --dy: -65px; animation-delay: 1.35s; }
+.mm-p11 { --dx: -35px; --dy: 65px; animation-delay: 1.5s; }
+.mm-p12 { --dx: 35px; --dy: 65px; animation-delay: 1.65s; }
+
+@keyframes energyBurst {
+  0% {
+    transform: translate(-50%, -50%) scale(0.5);
+    opacity: 0;
+  }
+  15% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate(
+      calc(-50% + var(--dx)),
+      calc(-50% + var(--dy))
+    ) scale(1.5);
+    opacity: 0;
+  }
+}
