@@ -1,74 +1,134 @@
-# M.M TIMES & MOBILES – E-Commerce Website for Mobile Accessories
+# E-Commerce Website for Mobile Accessories
 
-A responsive e-commerce web application designed to showcase and sell premium mobile accessories, with product management and phone compatibility features.
+A responsive e-commerce web application developed for **M.M TIMES & MOBILES**, a mobile accessories store. The application allows customers to browse products, check phone compatibility, manage their shopping cart, and place orders. It also includes an admin dashboard for managing products, inventory, and orders.
 
-Features
+## Project Features
 
-- Responsive design for desktop and mobile devices
-- Product browsing and category-based filtering
-- Product search functionality
-- Product details popup
-- Shopping cart and checkout
-- Phone compatibility lookup
-- Admin dashboard for managing products and inventory
-- Order management
-- Product stock tracking using Supabase
-- Animated loading screen and interactive UI
+### Customer Features
+- Responsive interface for desktop and mobile devices.
+- Browse mobile accessories by category.
+- Search and filter products.
+- View detailed product information.
+- Add products to the shopping cart.
+- Check product availability and stock.
+- Find accessories compatible with specific phone models.
+- Shopping cart and checkout functionality.
+- Track orders.
 
-##  Technologies Used
+### Admin Features
+- Admin login interface.
+- Dashboard for managing store information.
+- Add, update, and manage products.
+- Manage product categories and inventory.
+- Manage phone compatibility information.
+- Manage orders.
+- Monitor product stock using Supabase.
 
-- **Frontend:** React.js
-- **Styling:** Tailwind CSS
-- **Animations:** Framer Motion
-- **Backend & Database:** Supabase
-- **Development Tools:** VS Code, Git, GitHub
-- **Build Tool:** Vite
+### User Interface
+- Animated loading screen.
+- Responsive navigation and category menu.
+- Interactive product cards and detail popups.
+- Smooth animations and transitions.
+- Mobile-friendly layouts.
 
-##  Project Setup
+## Technologies Used
 
-1. Clone the repository:
+| Technology | Purpose |
+|---|---|
+| React.js | Frontend development |
+| JavaScript | Application functionality |
+| Tailwind CSS | Styling and responsive design |
+| Framer Motion | Animations and transitions |
+| Supabase | Database and backend services |
+| Vite | Development server and build tool |
+| Git & GitHub | Version control and project hosting |
 
-   ```bash
-   git clone https://github.com/vishalM004/ecommerce-website-for-mobile-accessories.git
-   ```
+## Project Structure
 
-2. Open the project folder:
+```text
+M.M TIMES/
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   ├── supabase.js
+│   ├── AdminDashboard.jsx
+│   ├── AdminProducts.jsx
+│   ├── AdminInventory.jsx
+│   ├── AdminOrders.jsx
+│   ├── AdminPhones.jsx
+│   ├── AdminTempers.jsx
+│   └── PickupCheckout.jsx
+├── hero_images/
+├── Products Images/
+├── package.json
+├── index.html
+└── README.md
+```
 
-   ```bash
-   cd ecommerce-website-for-mobile-accessories
-   ```
+## Installation and Setup
 
-3. Install dependencies:
+Follow these steps to run the project locally.
 
-   ```bash
-   npm install
-   ```
+### 1. Clone the Repository
 
-4. Create a `.env` file in the project root and add your own Supabase credentials:
+```bash
+git clone https://github.com/vishalM004/ecommerce-website-for-mobile-accessories.git
+```
 
-   ```env
-   VITE_SUPABASE_URL=your_supabase_url
-   VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-   ```
+### 2. Open the Project Folder
 
-5. Start the development server:
+```bash
+cd ecommerce-website-for-mobile-accessories
+```
 
-   ```bash
-   npm run dev
-   ```
+### 3. Install Dependencies
 
-## Environment Variables
+```bash
+npm install
+```
 
-This project uses Supabase for database connectivity.
+### 4. Configure Supabase
 
-Keep your `.env` file private. Never upload API secrets or private credentials to GitHub.
+Create a `.env` file in the root directory and add your Supabase project credentials:
 
-##  Developer
+```env
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+```
 
-**M.M TIMES & MOBILES**
+Replace the placeholder values with your own Supabase project URL and publishable/anonymous key.
+
+Do not upload your `.env` file or private credentials to GitHub.
+
+### 5. Start the Development Server
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in the terminal to view the application.
+
+## Database
+
+The project uses Supabase for storing and managing application data, including product information, phone compatibility details, and inventory-related information.
+
+The application connects to Supabase through its client configuration in `src/supabase.js`.
+
+## Future Improvements
+
+- Integrate an online payment gateway.
+- Improve order tracking and notifications.
+- Add customer accounts and order history.
+- Deploy the application for public access.
+
+## Author
+
+**Vishal M**
 
 GitHub: [vishalM004](https://github.com/vishalM004)
 
 ---
 
-*Built with React, Tailwind CSS, Framer Motion and Supabase.*
+This project was developed as a practical full-stack e-commerce application to explore frontend development, database integration, inventory management, and responsive web design.
